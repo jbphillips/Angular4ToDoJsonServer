@@ -12,6 +12,8 @@ JSON Server is an npm package that you can create a REST JSON webservice. All we
 
 You can either install it locally for specific project or globally. I will go with locally.
 
+$ npm install -D json-server
+
 As per the standard convention, I am going to name the file db.json, you can name it as per your needs.
 
 
